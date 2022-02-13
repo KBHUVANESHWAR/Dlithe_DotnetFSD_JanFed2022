@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html>
+<body>
+ 
+<script>
+ function Student()
+{
+	this.Name="Name";
+	throw new Error("You cannot create an instance of Abstract Class");
+}
+Student.prototype.print=function()
+{
+	return "Student is: "+this.Name;
+}
+function KG(Name)
+{
+	this.Name=Name;
+}
+KG.prototype=Object.create(Student.prototype);
+var kg=new KG("Vivek");
+document.writeln(kg.print());
+ 
+ 
+ </script>
+ <br>
+ <br>
+ <script>
+    function Employee(id,name)
+    {
+      var eId=id;
+      var ename=name;
+      Object.defineProperty(this,"name",{
+        get:function()
+        {
+          return ename;
+        },
+      set:function(ename)
+      {
+        this.ename=ename;
+      }
+     
+    });
+     
+        Object.defineProperty(this,"id",{
+        get:function()
+        {
+          return eId;
+        },
+      set:function(eId)
+      {
+        this.eId=eId;
+      }
+     
+    });
+     
+    }
+      var emp=new Employee(101, "Pooja");
+      document.writeln(emp.id+" "+emp.name);
+    </script>
+     
+
+
+
+ 
+</body>
+</html>
