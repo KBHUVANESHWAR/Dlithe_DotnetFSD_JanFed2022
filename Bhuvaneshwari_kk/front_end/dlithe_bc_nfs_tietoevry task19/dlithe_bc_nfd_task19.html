@@ -1,0 +1,121 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+<h2>JavaScript Class Inheritance</h2>
+
+<p>Use the "extends" keyword to inherit all methods from another class.</p>
+<p>Use the "super" method to call the parent's constructor function.</p>
+
+<p id="demo"></p>
+
+<script>
+class Car {
+  constructor(brand) {
+    this.carname = brand;
+  }
+  present() {
+    return 'I have a ' + this.carname;
+  }
+}
+
+class Model extends Car {
+  constructor(brand, mod) {
+    super(brand);
+    this.model = mod;
+  }
+  show() {
+    return this.present() + ', it is a ' + this.model;
+  }
+}
+
+let myCar = new Model("Ford", "Mustang");
+document.getElementById("demo").innerHTML = myCar.show();
+</script>
+<br><br>
+<body>
+    <h2>Polymorphism</h2>
+                <pre>
+                  Polymorphism is one of the tenets of Object Oriented Programming (OOP).
+                   It helps to design objects in such a way that the they can share or override any behavior with the specific provided objects.
+                   Polymorphism takes advantage of inheritance in order to make this happen.
+                </pre>
+                <script>  
+                  class A  
+                    {  
+                       display()  
+                      {  
+                        document.writeln("A is invoked<br>");  
+                      }  
+                    } 
+                    
+                    
+                  class B extends A  
+                    {  
+                      display()  
+                      {  
+                        document.writeln("B is invoked"+"<br>");  
+                      }  
+                    }  
+                    
+                  var a=[new A(), new B()]  
+                  a.forEach(function(msg)  
+                  {  
+                  msg.display();  
+                  });  
+                  </script>  
+<script>
+
+
+   var game = function () {}
+
+
+      game.prototype.select = function()
+   {
+      return "SPORTS"
+   }
+
+
+
+   var cricket = function() {}
+
+   cricket.prototype = Object.create(game.prototype);
+   cricket.prototype.select = function()                //  overridden the select method to display new string   
+    {                                                        
+      return "Cricket";
+   }
+
+
+
+   var tennis = function() {}
+   tennis.prototype = Object.create(game.prototype);  // overridden the select method to display new string
+   tennis.prototype.select = function()                              
+   {
+      return "Tennis";
+   }
+
+
+
+   var football = function() {}
+
+   football.prototype = Object.create(game.prototype);  // shared parent property
+
+
+   
+
+   var games = [new game(), new cricket(), new tennis(), new football()];
+
+
+
+
+   games.forEach(function(game)
+   {
+    document.write(game.select());
+    document.write("</br>");
+   });
+</script>
+</body>
+
+</body>
+</html>
+
