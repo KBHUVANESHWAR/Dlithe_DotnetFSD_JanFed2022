@@ -1,0 +1,15 @@
+D:\Dlithe_DotnetFSD_JanFeb2022\Bhuvaneshwari_k\Front_end\dlithe_bc_tietoEvry28 c#\debug 2 .cs\bin\Debug\net6.0\debug 2 .cs.exe
+D:\Dlithe_DotnetFSD_JanFeb2022\Bhuvaneshwari_k\Front_end\dlithe_bc_tietoEvry28 c#\debug 2 .cs\bin\Debug\net6.0\debug 2 .cs.deps.json
+D:\Dlithe_DotnetFSD_JanFeb2022\Bhuvaneshwari_k\Front_end\dlithe_bc_tietoEvry28 c#\debug 2 .cs\bin\Debug\net6.0\debug 2 .cs.runtimeconfig.json
+D:\Dlithe_DotnetFSD_JanFeb2022\Bhuvaneshwari_k\Front_end\dlithe_bc_tietoEvry28 c#\debug 2 .cs\bin\Debug\net6.0\debug 2 .cs.dll
+D:\Dlithe_DotnetFSD_JanFeb2022\Bhuvaneshwari_k\Front_end\dlithe_bc_tietoEvry28 c#\debug 2 .cs\bin\Debug\net6.0\debug 2 .cs.pdb
+D:\Dlithe_DotnetFSD_JanFeb2022\Bhuvaneshwari_k\Front_end\dlithe_bc_tietoEvry28 c#\debug 2 .cs\obj\Debug\net6.0\debug 2 .cs.csproj.AssemblyReference.cache
+D:\Dlithe_DotnetFSD_JanFeb2022\Bhuvaneshwari_k\Front_end\dlithe_bc_tietoEvry28 c#\debug 2 .cs\obj\Debug\net6.0\debug 2 .cs.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dlithe_DotnetFSD_JanFeb2022\Bhuvaneshwari_k\Front_end\dlithe_bc_tietoEvry28 c#\debug 2 .cs\obj\Debug\net6.0\debug 2 .cs.AssemblyInfoInputs.cache
+D:\Dlithe_DotnetFSD_JanFeb2022\Bhuvaneshwari_k\Front_end\dlithe_bc_tietoEvry28 c#\debug 2 .cs\obj\Debug\net6.0\debug 2 .cs.AssemblyInfo.cs
+D:\Dlithe_DotnetFSD_JanFeb2022\Bhuvaneshwari_k\Front_end\dlithe_bc_tietoEvry28 c#\debug 2 .cs\obj\Debug\net6.0\debug 2 .cs.csproj.CoreCompileInputs.cache
+D:\Dlithe_DotnetFSD_JanFeb2022\Bhuvaneshwari_k\Front_end\dlithe_bc_tietoEvry28 c#\debug 2 .cs\obj\Debug\net6.0\debug 2 .cs.dll
+D:\Dlithe_DotnetFSD_JanFeb2022\Bhuvaneshwari_k\Front_end\dlithe_bc_tietoEvry28 c#\debug 2 .cs\obj\Debug\net6.0\refint\debug 2 .cs.dll
+D:\Dlithe_DotnetFSD_JanFeb2022\Bhuvaneshwari_k\Front_end\dlithe_bc_tietoEvry28 c#\debug 2 .cs\obj\Debug\net6.0\debug 2 .cs.pdb
+D:\Dlithe_DotnetFSD_JanFeb2022\Bhuvaneshwari_k\Front_end\dlithe_bc_tietoEvry28 c#\debug 2 .cs\obj\Debug\net6.0\debug 2 .cs.genruntimeconfig.cache
+D:\Dlithe_DotnetFSD_JanFeb2022\Bhuvaneshwari_k\Front_end\dlithe_bc_tietoEvry28 c#\debug 2 .cs\obj\Debug\net6.0\ref\debug 2 .cs.dll

@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+<h2>EMPLOYEE DETAILS</h2>
+
+<p id="demo"></p>
+
+<script>
+function Person(first, last, designation, mobile) {
+  this.firstName = first;
+  this.lastName = last;
+  this.designation = designation;
+  this.mobileno = mobile;
+}
+
+
+{
+  return this.firstName + "  " + this.lastName + " " + this.designation + " "+ this.mobileno + " "
+  };
+
+
+var  myFather = new employee("bhuvaneshwari", "kb", " developer", 5678904321);
+document.getElementById("demo").innerHTML =
+"the employee details is " + myFather.location + " mysore "+ myfather.name(); 
+</script>
+
+</body>
+</html>

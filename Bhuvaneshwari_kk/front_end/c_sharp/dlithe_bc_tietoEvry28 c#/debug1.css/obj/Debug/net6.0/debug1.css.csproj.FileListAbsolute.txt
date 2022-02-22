@@ -1,0 +1,15 @@
+D:\Dlithe_DotnetFSD_JanFeb2022\Bhuvaneshwari_k\Front_end\dlithe_bc_tietoEvry28 c#\debug1.css\bin\Debug\net6.0\debug1.css.exe
+D:\Dlithe_DotnetFSD_JanFeb2022\Bhuvaneshwari_k\Front_end\dlithe_bc_tietoEvry28 c#\debug1.css\bin\Debug\net6.0\debug1.css.deps.json
+D:\Dlithe_DotnetFSD_JanFeb2022\Bhuvaneshwari_k\Front_end\dlithe_bc_tietoEvry28 c#\debug1.css\bin\Debug\net6.0\debug1.css.runtimeconfig.json
+D:\Dlithe_DotnetFSD_JanFeb2022\Bhuvaneshwari_k\Front_end\dlithe_bc_tietoEvry28 c#\debug1.css\bin\Debug\net6.0\debug1.css.dll
+D:\Dlithe_DotnetFSD_JanFeb2022\Bhuvaneshwari_k\Front_end\dlithe_bc_tietoEvry28 c#\debug1.css\bin\Debug\net6.0\debug1.css.pdb
+D:\Dlithe_DotnetFSD_JanFeb2022\Bhuvaneshwari_k\Front_end\dlithe_bc_tietoEvry28 c#\debug1.css\obj\Debug\net6.0\debug1.css.csproj.AssemblyReference.cache
+D:\Dlithe_DotnetFSD_JanFeb2022\Bhuvaneshwari_k\Front_end\dlithe_bc_tietoEvry28 c#\debug1.css\obj\Debug\net6.0\debug1.css.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dlithe_DotnetFSD_JanFeb2022\Bhuvaneshwari_k\Front_end\dlithe_bc_tietoEvry28 c#\debug1.css\obj\Debug\net6.0\debug1.css.AssemblyInfoInputs.cache
+D:\Dlithe_DotnetFSD_JanFeb2022\Bhuvaneshwari_k\Front_end\dlithe_bc_tietoEvry28 c#\debug1.css\obj\Debug\net6.0\debug1.css.AssemblyInfo.cs
+D:\Dlithe_DotnetFSD_JanFeb2022\Bhuvaneshwari_k\Front_end\dlithe_bc_tietoEvry28 c#\debug1.css\obj\Debug\net6.0\debug1.css.csproj.CoreCompileInputs.cache
+D:\Dlithe_DotnetFSD_JanFeb2022\Bhuvaneshwari_k\Front_end\dlithe_bc_tietoEvry28 c#\debug1.css\obj\Debug\net6.0\debug1.css.dll
+D:\Dlithe_DotnetFSD_JanFeb2022\Bhuvaneshwari_k\Front_end\dlithe_bc_tietoEvry28 c#\debug1.css\obj\Debug\net6.0\refint\debug1.css.dll
+D:\Dlithe_DotnetFSD_JanFeb2022\Bhuvaneshwari_k\Front_end\dlithe_bc_tietoEvry28 c#\debug1.css\obj\Debug\net6.0\debug1.css.pdb
+D:\Dlithe_DotnetFSD_JanFeb2022\Bhuvaneshwari_k\Front_end\dlithe_bc_tietoEvry28 c#\debug1.css\obj\Debug\net6.0\debug1.css.genruntimeconfig.cache
+D:\Dlithe_DotnetFSD_JanFeb2022\Bhuvaneshwari_k\Front_end\dlithe_bc_tietoEvry28 c#\debug1.css\obj\Debug\net6.0\ref\debug1.css.dll

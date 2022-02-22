@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+<h2>EMPLOYEE DETAILS</h2>
+<p>Looping object property values:</p>
+
+<p id="demo"></p>
+
+<script>
+const person = {
+  fname:"Bhuvana",
+  lname:"KB",
+  designation:"developer",
+  mobile:456677890321
+}; 
+
+let txt = "";
+for (let x in person) {
+  txt += person[x] + " ";
+}
+
+document.getElementById("demo").innerHTML = txt;
+</script>
+<br>
+<br>
+<body>
+
+    <h1>The JavaScript <i>this</i> Keyword</h1>
+    <p>In this example, <b>this</b> refers to the <b>person</b> object.</p>
+    <p>Because <b>fullName</b> is a method of the person object.</p>
+    
+    <p id="demo"></p>
+    
+    <script>
+    // Create an object:
+    const person = {
+      firstName: "John",
+      lastName: "Doe",
+      id: 5566,
+      fullName : function() {
+        return this.firstName + " " + this.lastName;
+      }
+    };
+    
+    // Display data from the object:
+    document.getElementById("demo").innerHTML = person.fullName();
+    </script>
+    
+    </body>
+
+</body>
+</html>
