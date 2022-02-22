@@ -1,0 +1,15 @@
+D:\Dlithe_DotnetFSD_JanFeb2022\Bhuvaneshwari_k\Front_end\dlithe_bc_tietoEvry27 c#\strings.cs\bin\Debug\net6.0\strings.cs.exe
+D:\Dlithe_DotnetFSD_JanFeb2022\Bhuvaneshwari_k\Front_end\dlithe_bc_tietoEvry27 c#\strings.cs\bin\Debug\net6.0\strings.cs.deps.json
+D:\Dlithe_DotnetFSD_JanFeb2022\Bhuvaneshwari_k\Front_end\dlithe_bc_tietoEvry27 c#\strings.cs\bin\Debug\net6.0\strings.cs.runtimeconfig.json
+D:\Dlithe_DotnetFSD_JanFeb2022\Bhuvaneshwari_k\Front_end\dlithe_bc_tietoEvry27 c#\strings.cs\bin\Debug\net6.0\strings.cs.dll
+D:\Dlithe_DotnetFSD_JanFeb2022\Bhuvaneshwari_k\Front_end\dlithe_bc_tietoEvry27 c#\strings.cs\bin\Debug\net6.0\strings.cs.pdb
+D:\Dlithe_DotnetFSD_JanFeb2022\Bhuvaneshwari_k\Front_end\dlithe_bc_tietoEvry27 c#\strings.cs\obj\Debug\net6.0\strings.cs.csproj.AssemblyReference.cache
+D:\Dlithe_DotnetFSD_JanFeb2022\Bhuvaneshwari_k\Front_end\dlithe_bc_tietoEvry27 c#\strings.cs\obj\Debug\net6.0\strings.cs.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dlithe_DotnetFSD_JanFeb2022\Bhuvaneshwari_k\Front_end\dlithe_bc_tietoEvry27 c#\strings.cs\obj\Debug\net6.0\strings.cs.AssemblyInfoInputs.cache
+D:\Dlithe_DotnetFSD_JanFeb2022\Bhuvaneshwari_k\Front_end\dlithe_bc_tietoEvry27 c#\strings.cs\obj\Debug\net6.0\strings.cs.AssemblyInfo.cs
+D:\Dlithe_DotnetFSD_JanFeb2022\Bhuvaneshwari_k\Front_end\dlithe_bc_tietoEvry27 c#\strings.cs\obj\Debug\net6.0\strings.cs.csproj.CoreCompileInputs.cache
+D:\Dlithe_DotnetFSD_JanFeb2022\Bhuvaneshwari_k\Front_end\dlithe_bc_tietoEvry27 c#\strings.cs\obj\Debug\net6.0\strings.cs.dll
+D:\Dlithe_DotnetFSD_JanFeb2022\Bhuvaneshwari_k\Front_end\dlithe_bc_tietoEvry27 c#\strings.cs\obj\Debug\net6.0\refint\strings.cs.dll
+D:\Dlithe_DotnetFSD_JanFeb2022\Bhuvaneshwari_k\Front_end\dlithe_bc_tietoEvry27 c#\strings.cs\obj\Debug\net6.0\strings.cs.pdb
+D:\Dlithe_DotnetFSD_JanFeb2022\Bhuvaneshwari_k\Front_end\dlithe_bc_tietoEvry27 c#\strings.cs\obj\Debug\net6.0\strings.cs.genruntimeconfig.cache
+D:\Dlithe_DotnetFSD_JanFeb2022\Bhuvaneshwari_k\Front_end\dlithe_bc_tietoEvry27 c#\strings.cs\obj\Debug\net6.0\ref\strings.cs.dll

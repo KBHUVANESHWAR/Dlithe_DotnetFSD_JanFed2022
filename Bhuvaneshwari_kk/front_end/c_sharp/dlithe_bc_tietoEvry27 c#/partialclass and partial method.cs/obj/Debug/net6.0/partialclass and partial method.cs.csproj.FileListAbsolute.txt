@@ -1,0 +1,15 @@
+D:\Dlithe_DotnetFSD_JanFeb2022\Bhuvaneshwari_k\Front_end\dlithe_bc_tietoEvry27 c#\partialclass and partial method.cs\bin\Debug\net6.0\partialclass and partial method.cs.exe
+D:\Dlithe_DotnetFSD_JanFeb2022\Bhuvaneshwari_k\Front_end\dlithe_bc_tietoEvry27 c#\partialclass and partial method.cs\bin\Debug\net6.0\partialclass and partial method.cs.deps.json
+D:\Dlithe_DotnetFSD_JanFeb2022\Bhuvaneshwari_k\Front_end\dlithe_bc_tietoEvry27 c#\partialclass and partial method.cs\bin\Debug\net6.0\partialclass and partial method.cs.runtimeconfig.json
+D:\Dlithe_DotnetFSD_JanFeb2022\Bhuvaneshwari_k\Front_end\dlithe_bc_tietoEvry27 c#\partialclass and partial method.cs\bin\Debug\net6.0\partialclass and partial method.cs.dll
+D:\Dlithe_DotnetFSD_JanFeb2022\Bhuvaneshwari_k\Front_end\dlithe_bc_tietoEvry27 c#\partialclass and partial method.cs\bin\Debug\net6.0\partialclass and partial method.cs.pdb
+D:\Dlithe_DotnetFSD_JanFeb2022\Bhuvaneshwari_k\Front_end\dlithe_bc_tietoEvry27 c#\partialclass and partial method.cs\obj\Debug\net6.0\partialclass and partial method.cs.csproj.AssemblyReference.cache
+D:\Dlithe_DotnetFSD_JanFeb2022\Bhuvaneshwari_k\Front_end\dlithe_bc_tietoEvry27 c#\partialclass and partial method.cs\obj\Debug\net6.0\partialclass and partial method.cs.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dlithe_DotnetFSD_JanFeb2022\Bhuvaneshwari_k\Front_end\dlithe_bc_tietoEvry27 c#\partialclass and partial method.cs\obj\Debug\net6.0\partialclass and partial method.cs.AssemblyInfoInputs.cache
+D:\Dlithe_DotnetFSD_JanFeb2022\Bhuvaneshwari_k\Front_end\dlithe_bc_tietoEvry27 c#\partialclass and partial method.cs\obj\Debug\net6.0\partialclass and partial method.cs.AssemblyInfo.cs
+D:\Dlithe_DotnetFSD_JanFeb2022\Bhuvaneshwari_k\Front_end\dlithe_bc_tietoEvry27 c#\partialclass and partial method.cs\obj\Debug\net6.0\partialclass and partial method.cs.csproj.CoreCompileInputs.cache
+D:\Dlithe_DotnetFSD_JanFeb2022\Bhuvaneshwari_k\Front_end\dlithe_bc_tietoEvry27 c#\partialclass and partial method.cs\obj\Debug\net6.0\partialclass and partial method.cs.dll
+D:\Dlithe_DotnetFSD_JanFeb2022\Bhuvaneshwari_k\Front_end\dlithe_bc_tietoEvry27 c#\partialclass and partial method.cs\obj\Debug\net6.0\refint\partialclass and partial method.cs.dll
+D:\Dlithe_DotnetFSD_JanFeb2022\Bhuvaneshwari_k\Front_end\dlithe_bc_tietoEvry27 c#\partialclass and partial method.cs\obj\Debug\net6.0\partialclass and partial method.cs.pdb
+D:\Dlithe_DotnetFSD_JanFeb2022\Bhuvaneshwari_k\Front_end\dlithe_bc_tietoEvry27 c#\partialclass and partial method.cs\obj\Debug\net6.0\partialclass and partial method.cs.genruntimeconfig.cache
+D:\Dlithe_DotnetFSD_JanFeb2022\Bhuvaneshwari_k\Front_end\dlithe_bc_tietoEvry27 c#\partialclass and partial method.cs\obj\Debug\net6.0\ref\partialclass and partial method.cs.dll
