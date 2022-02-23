@@ -1,0 +1,5 @@
+D:\Dlithe_DotnetFSD_JanFeb2022\Bhuvaneshwari_k\Front_end\dlithe_bc_tietoEvry task25 c#\Inheritance\obj\Debug\net6.0\Inheritance.csproj.AssemblyReference.cache
+D:\Dlithe_DotnetFSD_JanFeb2022\Bhuvaneshwari_k\Front_end\dlithe_bc_tietoEvry task25 c#\Inheritance\obj\Debug\net6.0\Inheritance.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dlithe_DotnetFSD_JanFeb2022\Bhuvaneshwari_k\Front_end\dlithe_bc_tietoEvry task25 c#\Inheritance\obj\Debug\net6.0\Inheritance.AssemblyInfoInputs.cache
+D:\Dlithe_DotnetFSD_JanFeb2022\Bhuvaneshwari_k\Front_end\dlithe_bc_tietoEvry task25 c#\Inheritance\obj\Debug\net6.0\Inheritance.AssemblyInfo.cs
+D:\Dlithe_DotnetFSD_JanFeb2022\Bhuvaneshwari_k\Front_end\dlithe_bc_tietoEvry task25 c#\Inheritance\obj\Debug\net6.0\Inheritance.csproj.CoreCompileInputs.cache

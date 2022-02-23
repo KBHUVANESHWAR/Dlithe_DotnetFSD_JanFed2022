@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32210.238
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "largest of 3.cs", "largest of 3.cs.csproj", "{E7E3B1B0-F4A0-4D32-BA3F-389E79EC7F71}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Airthmatic.cs", "..\Airthmatic.cs\Airthmatic.cs.csproj", "{C63941BD-0062-41FC-9253-53078A9FDD38}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E7E3B1B0-F4A0-4D32-BA3F-389E79EC7F71}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E7E3B1B0-F4A0-4D32-BA3F-389E79EC7F71}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E7E3B1B0-F4A0-4D32-BA3F-389E79EC7F71}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E7E3B1B0-F4A0-4D32-BA3F-389E79EC7F71}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C63941BD-0062-41FC-9253-53078A9FDD38}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C63941BD-0062-41FC-9253-53078A9FDD38}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C63941BD-0062-41FC-9253-53078A9FDD38}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C63941BD-0062-41FC-9253-53078A9FDD38}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2105B151-C97B-4060-9B93-5E543B3543E7}
+	EndGlobalSection
+EndGlobal

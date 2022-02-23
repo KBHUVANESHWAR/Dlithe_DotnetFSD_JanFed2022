@@ -1,0 +1,15 @@
+D:\Dlithe_DotnetFSD_JanFeb2022\Bhuvaneshwari_k\Front_end\dlithe_bc_nfs_task24 c#\Airthmatic.cs\bin\Debug\net6.0\Airthmatic.cs.exe
+D:\Dlithe_DotnetFSD_JanFeb2022\Bhuvaneshwari_k\Front_end\dlithe_bc_nfs_task24 c#\Airthmatic.cs\bin\Debug\net6.0\Airthmatic.cs.deps.json
+D:\Dlithe_DotnetFSD_JanFeb2022\Bhuvaneshwari_k\Front_end\dlithe_bc_nfs_task24 c#\Airthmatic.cs\bin\Debug\net6.0\Airthmatic.cs.runtimeconfig.json
+D:\Dlithe_DotnetFSD_JanFeb2022\Bhuvaneshwari_k\Front_end\dlithe_bc_nfs_task24 c#\Airthmatic.cs\bin\Debug\net6.0\Airthmatic.cs.dll
+D:\Dlithe_DotnetFSD_JanFeb2022\Bhuvaneshwari_k\Front_end\dlithe_bc_nfs_task24 c#\Airthmatic.cs\bin\Debug\net6.0\Airthmatic.cs.pdb
+D:\Dlithe_DotnetFSD_JanFeb2022\Bhuvaneshwari_k\Front_end\dlithe_bc_nfs_task24 c#\Airthmatic.cs\obj\Debug\net6.0\Airthmatic.cs.csproj.AssemblyReference.cache
+D:\Dlithe_DotnetFSD_JanFeb2022\Bhuvaneshwari_k\Front_end\dlithe_bc_nfs_task24 c#\Airthmatic.cs\obj\Debug\net6.0\Airthmatic.cs.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dlithe_DotnetFSD_JanFeb2022\Bhuvaneshwari_k\Front_end\dlithe_bc_nfs_task24 c#\Airthmatic.cs\obj\Debug\net6.0\Airthmatic.cs.AssemblyInfoInputs.cache
+D:\Dlithe_DotnetFSD_JanFeb2022\Bhuvaneshwari_k\Front_end\dlithe_bc_nfs_task24 c#\Airthmatic.cs\obj\Debug\net6.0\Airthmatic.cs.AssemblyInfo.cs
+D:\Dlithe_DotnetFSD_JanFeb2022\Bhuvaneshwari_k\Front_end\dlithe_bc_nfs_task24 c#\Airthmatic.cs\obj\Debug\net6.0\Airthmatic.cs.csproj.CoreCompileInputs.cache
+D:\Dlithe_DotnetFSD_JanFeb2022\Bhuvaneshwari_k\Front_end\dlithe_bc_nfs_task24 c#\Airthmatic.cs\obj\Debug\net6.0\Airthmatic.cs.dll
+D:\Dlithe_DotnetFSD_JanFeb2022\Bhuvaneshwari_k\Front_end\dlithe_bc_nfs_task24 c#\Airthmatic.cs\obj\Debug\net6.0\refint\Airthmatic.cs.dll
+D:\Dlithe_DotnetFSD_JanFeb2022\Bhuvaneshwari_k\Front_end\dlithe_bc_nfs_task24 c#\Airthmatic.cs\obj\Debug\net6.0\Airthmatic.cs.pdb
+D:\Dlithe_DotnetFSD_JanFeb2022\Bhuvaneshwari_k\Front_end\dlithe_bc_nfs_task24 c#\Airthmatic.cs\obj\Debug\net6.0\Airthmatic.cs.genruntimeconfig.cache
+D:\Dlithe_DotnetFSD_JanFeb2022\Bhuvaneshwari_k\Front_end\dlithe_bc_nfs_task24 c#\Airthmatic.cs\obj\Debug\net6.0\ref\Airthmatic.cs.dll

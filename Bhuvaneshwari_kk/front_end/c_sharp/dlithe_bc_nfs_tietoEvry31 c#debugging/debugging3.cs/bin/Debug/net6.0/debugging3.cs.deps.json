@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "debugging3.cs/1.0.0": {
+        "runtime": {
+          "debugging3.cs.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "debugging3.cs/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

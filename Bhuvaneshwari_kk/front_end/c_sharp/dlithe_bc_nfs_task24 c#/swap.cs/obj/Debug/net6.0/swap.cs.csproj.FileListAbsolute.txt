@@ -1,0 +1,15 @@
+D:\Dlithe_DotnetFSD_JanFeb2022\Bhuvaneshwari_k\Front_end\dlithe_bc_nfs_task24 c#\swap.cs\bin\Debug\net6.0\swap.cs.exe
+D:\Dlithe_DotnetFSD_JanFeb2022\Bhuvaneshwari_k\Front_end\dlithe_bc_nfs_task24 c#\swap.cs\bin\Debug\net6.0\swap.cs.deps.json
+D:\Dlithe_DotnetFSD_JanFeb2022\Bhuvaneshwari_k\Front_end\dlithe_bc_nfs_task24 c#\swap.cs\bin\Debug\net6.0\swap.cs.runtimeconfig.json
+D:\Dlithe_DotnetFSD_JanFeb2022\Bhuvaneshwari_k\Front_end\dlithe_bc_nfs_task24 c#\swap.cs\bin\Debug\net6.0\swap.cs.dll
+D:\Dlithe_DotnetFSD_JanFeb2022\Bhuvaneshwari_k\Front_end\dlithe_bc_nfs_task24 c#\swap.cs\bin\Debug\net6.0\swap.cs.pdb
+D:\Dlithe_DotnetFSD_JanFeb2022\Bhuvaneshwari_k\Front_end\dlithe_bc_nfs_task24 c#\swap.cs\obj\Debug\net6.0\swap.cs.csproj.AssemblyReference.cache
+D:\Dlithe_DotnetFSD_JanFeb2022\Bhuvaneshwari_k\Front_end\dlithe_bc_nfs_task24 c#\swap.cs\obj\Debug\net6.0\swap.cs.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dlithe_DotnetFSD_JanFeb2022\Bhuvaneshwari_k\Front_end\dlithe_bc_nfs_task24 c#\swap.cs\obj\Debug\net6.0\swap.cs.AssemblyInfoInputs.cache
+D:\Dlithe_DotnetFSD_JanFeb2022\Bhuvaneshwari_k\Front_end\dlithe_bc_nfs_task24 c#\swap.cs\obj\Debug\net6.0\swap.cs.AssemblyInfo.cs
+D:\Dlithe_DotnetFSD_JanFeb2022\Bhuvaneshwari_k\Front_end\dlithe_bc_nfs_task24 c#\swap.cs\obj\Debug\net6.0\swap.cs.csproj.CoreCompileInputs.cache
+D:\Dlithe_DotnetFSD_JanFeb2022\Bhuvaneshwari_k\Front_end\dlithe_bc_nfs_task24 c#\swap.cs\obj\Debug\net6.0\swap.cs.dll
+D:\Dlithe_DotnetFSD_JanFeb2022\Bhuvaneshwari_k\Front_end\dlithe_bc_nfs_task24 c#\swap.cs\obj\Debug\net6.0\refint\swap.cs.dll
+D:\Dlithe_DotnetFSD_JanFeb2022\Bhuvaneshwari_k\Front_end\dlithe_bc_nfs_task24 c#\swap.cs\obj\Debug\net6.0\swap.cs.pdb
+D:\Dlithe_DotnetFSD_JanFeb2022\Bhuvaneshwari_k\Front_end\dlithe_bc_nfs_task24 c#\swap.cs\obj\Debug\net6.0\swap.cs.genruntimeconfig.cache
+D:\Dlithe_DotnetFSD_JanFeb2022\Bhuvaneshwari_k\Front_end\dlithe_bc_nfs_task24 c#\swap.cs\obj\Debug\net6.0\ref\swap.cs.dll

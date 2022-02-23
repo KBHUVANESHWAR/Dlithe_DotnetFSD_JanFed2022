@@ -1,0 +1,15 @@
+D:\Dlithe_DotnetFSD_JanFeb2022\Bhuvaneshwari_k\Front_end\dlithe_bc_nfs_task24 c#\largest of 3.cs\bin\Debug\net6.0\largest of 3.cs.exe
+D:\Dlithe_DotnetFSD_JanFeb2022\Bhuvaneshwari_k\Front_end\dlithe_bc_nfs_task24 c#\largest of 3.cs\bin\Debug\net6.0\largest of 3.cs.deps.json
+D:\Dlithe_DotnetFSD_JanFeb2022\Bhuvaneshwari_k\Front_end\dlithe_bc_nfs_task24 c#\largest of 3.cs\bin\Debug\net6.0\largest of 3.cs.runtimeconfig.json
+D:\Dlithe_DotnetFSD_JanFeb2022\Bhuvaneshwari_k\Front_end\dlithe_bc_nfs_task24 c#\largest of 3.cs\bin\Debug\net6.0\largest of 3.cs.dll
+D:\Dlithe_DotnetFSD_JanFeb2022\Bhuvaneshwari_k\Front_end\dlithe_bc_nfs_task24 c#\largest of 3.cs\bin\Debug\net6.0\largest of 3.cs.pdb
+D:\Dlithe_DotnetFSD_JanFeb2022\Bhuvaneshwari_k\Front_end\dlithe_bc_nfs_task24 c#\largest of 3.cs\obj\Debug\net6.0\largest of 3.cs.csproj.AssemblyReference.cache
+D:\Dlithe_DotnetFSD_JanFeb2022\Bhuvaneshwari_k\Front_end\dlithe_bc_nfs_task24 c#\largest of 3.cs\obj\Debug\net6.0\largest of 3.cs.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dlithe_DotnetFSD_JanFeb2022\Bhuvaneshwari_k\Front_end\dlithe_bc_nfs_task24 c#\largest of 3.cs\obj\Debug\net6.0\largest of 3.cs.AssemblyInfoInputs.cache
+D:\Dlithe_DotnetFSD_JanFeb2022\Bhuvaneshwari_k\Front_end\dlithe_bc_nfs_task24 c#\largest of 3.cs\obj\Debug\net6.0\largest of 3.cs.AssemblyInfo.cs
+D:\Dlithe_DotnetFSD_JanFeb2022\Bhuvaneshwari_k\Front_end\dlithe_bc_nfs_task24 c#\largest of 3.cs\obj\Debug\net6.0\largest of 3.cs.csproj.CoreCompileInputs.cache
+D:\Dlithe_DotnetFSD_JanFeb2022\Bhuvaneshwari_k\Front_end\dlithe_bc_nfs_task24 c#\largest of 3.cs\obj\Debug\net6.0\largest of 3.cs.dll
+D:\Dlithe_DotnetFSD_JanFeb2022\Bhuvaneshwari_k\Front_end\dlithe_bc_nfs_task24 c#\largest of 3.cs\obj\Debug\net6.0\refint\largest of 3.cs.dll
+D:\Dlithe_DotnetFSD_JanFeb2022\Bhuvaneshwari_k\Front_end\dlithe_bc_nfs_task24 c#\largest of 3.cs\obj\Debug\net6.0\largest of 3.cs.pdb
+D:\Dlithe_DotnetFSD_JanFeb2022\Bhuvaneshwari_k\Front_end\dlithe_bc_nfs_task24 c#\largest of 3.cs\obj\Debug\net6.0\largest of 3.cs.genruntimeconfig.cache
+D:\Dlithe_DotnetFSD_JanFeb2022\Bhuvaneshwari_k\Front_end\dlithe_bc_nfs_task24 c#\largest of 3.cs\obj\Debug\net6.0\ref\largest of 3.cs.dll

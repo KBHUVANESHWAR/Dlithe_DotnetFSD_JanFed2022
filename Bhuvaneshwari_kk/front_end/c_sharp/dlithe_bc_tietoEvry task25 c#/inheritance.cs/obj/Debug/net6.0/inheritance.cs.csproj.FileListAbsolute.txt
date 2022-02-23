@@ -1,0 +1,15 @@
+D:\Dlithe_DotnetFSD_JanFeb2022\Bhuvaneshwari_k\Front_end\dlithe_bc_tietoEvry task25 c#\inheritance.cs\bin\Debug\net6.0\inheritance.cs.exe
+D:\Dlithe_DotnetFSD_JanFeb2022\Bhuvaneshwari_k\Front_end\dlithe_bc_tietoEvry task25 c#\inheritance.cs\bin\Debug\net6.0\inheritance.cs.deps.json
+D:\Dlithe_DotnetFSD_JanFeb2022\Bhuvaneshwari_k\Front_end\dlithe_bc_tietoEvry task25 c#\inheritance.cs\bin\Debug\net6.0\inheritance.cs.runtimeconfig.json
+D:\Dlithe_DotnetFSD_JanFeb2022\Bhuvaneshwari_k\Front_end\dlithe_bc_tietoEvry task25 c#\inheritance.cs\bin\Debug\net6.0\inheritance.cs.dll
+D:\Dlithe_DotnetFSD_JanFeb2022\Bhuvaneshwari_k\Front_end\dlithe_bc_tietoEvry task25 c#\inheritance.cs\bin\Debug\net6.0\inheritance.cs.pdb
+D:\Dlithe_DotnetFSD_JanFeb2022\Bhuvaneshwari_k\Front_end\dlithe_bc_tietoEvry task25 c#\inheritance.cs\obj\Debug\net6.0\inheritance.cs.csproj.AssemblyReference.cache
+D:\Dlithe_DotnetFSD_JanFeb2022\Bhuvaneshwari_k\Front_end\dlithe_bc_tietoEvry task25 c#\inheritance.cs\obj\Debug\net6.0\inheritance.cs.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dlithe_DotnetFSD_JanFeb2022\Bhuvaneshwari_k\Front_end\dlithe_bc_tietoEvry task25 c#\inheritance.cs\obj\Debug\net6.0\inheritance.cs.AssemblyInfoInputs.cache
+D:\Dlithe_DotnetFSD_JanFeb2022\Bhuvaneshwari_k\Front_end\dlithe_bc_tietoEvry task25 c#\inheritance.cs\obj\Debug\net6.0\inheritance.cs.AssemblyInfo.cs
+D:\Dlithe_DotnetFSD_JanFeb2022\Bhuvaneshwari_k\Front_end\dlithe_bc_tietoEvry task25 c#\inheritance.cs\obj\Debug\net6.0\inheritance.cs.csproj.CoreCompileInputs.cache
+D:\Dlithe_DotnetFSD_JanFeb2022\Bhuvaneshwari_k\Front_end\dlithe_bc_tietoEvry task25 c#\inheritance.cs\obj\Debug\net6.0\inheritance.cs.dll
+D:\Dlithe_DotnetFSD_JanFeb2022\Bhuvaneshwari_k\Front_end\dlithe_bc_tietoEvry task25 c#\inheritance.cs\obj\Debug\net6.0\refint\inheritance.cs.dll
+D:\Dlithe_DotnetFSD_JanFeb2022\Bhuvaneshwari_k\Front_end\dlithe_bc_tietoEvry task25 c#\inheritance.cs\obj\Debug\net6.0\inheritance.cs.pdb
+D:\Dlithe_DotnetFSD_JanFeb2022\Bhuvaneshwari_k\Front_end\dlithe_bc_tietoEvry task25 c#\inheritance.cs\obj\Debug\net6.0\inheritance.cs.genruntimeconfig.cache
+D:\Dlithe_DotnetFSD_JanFeb2022\Bhuvaneshwari_k\Front_end\dlithe_bc_tietoEvry task25 c#\inheritance.cs\obj\Debug\net6.0\ref\inheritance.cs.dll

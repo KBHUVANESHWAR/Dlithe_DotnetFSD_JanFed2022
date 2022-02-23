@@ -1,0 +1,15 @@
+D:\Dlithe_DotnetFSD_JanFeb2022\Bhuvaneshwari_k\Front_end\dlithe_bc_nfs_task24 c#\employee.css\bin\Debug\net6.0\employee.css.exe
+D:\Dlithe_DotnetFSD_JanFeb2022\Bhuvaneshwari_k\Front_end\dlithe_bc_nfs_task24 c#\employee.css\bin\Debug\net6.0\employee.css.deps.json
+D:\Dlithe_DotnetFSD_JanFeb2022\Bhuvaneshwari_k\Front_end\dlithe_bc_nfs_task24 c#\employee.css\bin\Debug\net6.0\employee.css.runtimeconfig.json
+D:\Dlithe_DotnetFSD_JanFeb2022\Bhuvaneshwari_k\Front_end\dlithe_bc_nfs_task24 c#\employee.css\bin\Debug\net6.0\employee.css.dll
+D:\Dlithe_DotnetFSD_JanFeb2022\Bhuvaneshwari_k\Front_end\dlithe_bc_nfs_task24 c#\employee.css\bin\Debug\net6.0\employee.css.pdb
+D:\Dlithe_DotnetFSD_JanFeb2022\Bhuvaneshwari_k\Front_end\dlithe_bc_nfs_task24 c#\employee.css\obj\Debug\net6.0\employee.css.csproj.AssemblyReference.cache
+D:\Dlithe_DotnetFSD_JanFeb2022\Bhuvaneshwari_k\Front_end\dlithe_bc_nfs_task24 c#\employee.css\obj\Debug\net6.0\employee.css.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dlithe_DotnetFSD_JanFeb2022\Bhuvaneshwari_k\Front_end\dlithe_bc_nfs_task24 c#\employee.css\obj\Debug\net6.0\employee.css.AssemblyInfoInputs.cache
+D:\Dlithe_DotnetFSD_JanFeb2022\Bhuvaneshwari_k\Front_end\dlithe_bc_nfs_task24 c#\employee.css\obj\Debug\net6.0\employee.css.AssemblyInfo.cs
+D:\Dlithe_DotnetFSD_JanFeb2022\Bhuvaneshwari_k\Front_end\dlithe_bc_nfs_task24 c#\employee.css\obj\Debug\net6.0\employee.css.csproj.CoreCompileInputs.cache
+D:\Dlithe_DotnetFSD_JanFeb2022\Bhuvaneshwari_k\Front_end\dlithe_bc_nfs_task24 c#\employee.css\obj\Debug\net6.0\employee.css.dll
+D:\Dlithe_DotnetFSD_JanFeb2022\Bhuvaneshwari_k\Front_end\dlithe_bc_nfs_task24 c#\employee.css\obj\Debug\net6.0\refint\employee.css.dll
+D:\Dlithe_DotnetFSD_JanFeb2022\Bhuvaneshwari_k\Front_end\dlithe_bc_nfs_task24 c#\employee.css\obj\Debug\net6.0\employee.css.pdb
+D:\Dlithe_DotnetFSD_JanFeb2022\Bhuvaneshwari_k\Front_end\dlithe_bc_nfs_task24 c#\employee.css\obj\Debug\net6.0\employee.css.genruntimeconfig.cache
+D:\Dlithe_DotnetFSD_JanFeb2022\Bhuvaneshwari_k\Front_end\dlithe_bc_nfs_task24 c#\employee.css\obj\Debug\net6.0\ref\employee.css.dll
